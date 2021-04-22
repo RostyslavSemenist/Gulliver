@@ -1,0 +1,19 @@
+{
+  "name": "jslearn",
+  "version": "1.0.0",
+  "description": "JavaScript with Selenium learning",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rostyslav Semenist",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-beta.2"
+  },
+  "devDependencies": {
+    "cypress": "^7.1.0"
+  }
+}
